@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>AweSomE 2.000</title>
+		<link>http://random5h17.github.io/v2</link>
+		<description>vTWO&#13;
+		&gt;BETA</description>
+		<atom:link href="http://random5h17.github.io/v2/thumbnail.jpg" rel="self" type="application/rss+xml"/>
+		<language>en</language>
+		<category>Internet</category>
+		<copyright>Copyright RANDOM $l-l17</copyright>
+			<image>
+				<url>http://random5h17.github.io/v2/thumbnail.jpg</url>
+				<title>AweSomE 2.000</title><link>http://random5h17.github.io/v2</link>
+			</image>
+		<itunes:author>RANDOM $l-l17</itunes:author>
+		<itunes:owner>
+			<itunes:name>RANDOM $l-l17</itunes:name>
+			<itunes:email>example@example.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://random5h17.github.io/v2/thumbnail.jpg"/>
+		<itunes:subtitle>vTWO&#13;
+		&gt;BETA</itunes:subtitle>
+		<itunes:summary>vTWO&#13;
+		&gt;BETA</itunes:summary>
+		<itunes:category text="Technology"/>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
+		<googleplay:author>RANDOM $l-l17</googleplay:author>
+		<googleplay:image href="http://random5h17.github.io/v2/thumbnail.jpg"/>
+		<googleplay:email>example@example.com</googleplay:email>
+		<googleplay:description>VER 1&#13;
+		&gt;BETA</googleplay:description>
+		<googleplay:category text="Technology"/>
+		<googleplay:explicit>No</googleplay:explicit>
+		<item>
+			<title>example</title>
+			<link>http://random5h17.github.io/v2/e001</link>
+			<guid isPermaLink="false">http://random5h17.github.io/e001.json</guid>
+			<pubDate>Tue, 10 Oct 2017 23:03:08 +0000</pubDate>
+			<enclosure url="http://random5h17.github.io/e001.mp3" length="0" type="audio/mpeg"/>
+			<itunes:author>RANDOM $l-l17</itunes:author>
+			<itunes:duration>98</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<googleplay:author>RANDOM $l-l17</googleplay:author>
+			<googleplay:explicit>No</googleplay:explicit>
+		</item>
+	</channel>
+</rss>
